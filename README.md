@@ -8,7 +8,8 @@ This is my beginning in the CyberSecurity Journey where I will deal with some ma
 
 ## 📌 Overview
 
-This repository is dedicated to the **research and development of Windows-based malware techniques**, specifically focusing on:
+This repository is dedicated to the **research and development of Windows-based malware techniques**, 
+specifically focusing on:
 
 - Crafting and manipulating executable (`.exe`) files
 - Lowering payload **entropy** to avoid signature/heuristic detection
@@ -17,7 +18,8 @@ This repository is dedicated to the **research and development of Windows-based 
 - Understanding behavioral detection evasion
 - Implementing base encoding, packing, and subtle sandbox evasion
 
-> ⚠️ **This repository is for educational and research purposes only.** All code and content provided are strictly for learning and analysis in a controlled environment.
+> ⚠️ **This repository is for educational and research purposes only.** All code and content provided are strictly for learning 
+  and analysis in a controlled environment.
 
 ---
 
@@ -25,7 +27,8 @@ This repository is dedicated to the **research and development of Windows-based 
 
 - 🧠 **Understanding Windows internals** and API behaviors critical to malware execution.
 - 🔍 **Investigating entropy manipulation** techniques to reduce binary detectability.
-- 🎭 **Experimenting with stealth techniques**, such as process hollowing, encoded shellcode loaders, API call obfuscation and Privilege Escalation.
+- 🎭 **Experimenting with stealth techniques**, such as process hollowing, encoded shellcode loaders, API call obfuscation
+  and Privilege Escalation.
 - 💾 Build custom `.exe` loaders and *trying* to study their footprint on various AV/EDR systems.
 - 🛡️ Analyzing how malware analysts and reverse engineers detect and counteract low-entropy payloads.
 
@@ -37,6 +40,7 @@ This repository is dedicated to the **research and development of Windows-based 
 - Optional: Virtual Machine with snapshots (e.g., VirtualBox, VMware)
 
 </pre>
-
+<br>
+I am still a beginner in this field so any misleading information if detected, please do report it to me or just drop a message to me on +91 8149414692.
 
 
