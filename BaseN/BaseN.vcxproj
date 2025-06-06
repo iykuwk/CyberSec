@@ -78,7 +78,7 @@
   <PropertyGroup Label="UserMacros" />
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <!--ClCompile defines how individual source files should be defined. Like here via <WarningLevel>
-    it can also include settings like 
+    it also includes settings like 
     - Preprocessor definitions (<PreprocessorDefinitions>)
     - Optimization level (<Optimization>)
     - Include directories (<AdditionalIncludeDirectories>)
