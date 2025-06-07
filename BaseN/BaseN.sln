@@ -1,0 +1,33 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+;"{8B........42}" is the GUID which identifies the project type and "{FEE.....EE4}" is the id for project inside the solution
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaseN", "BaseN\BaseN.vcxproj", "{FEE35B19-B0DF-4DAA-8514-A6AB3AFA8EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+;tells vscode how each project should behave in each configuration. 'ActiveCfg' includes the present configuration which is active whereas Build.0 indicates whether a prpject should be included in a particular build configuration or not.
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE35B19-B0DF-4DAA-8514-A6AB3AFA8EE4}.Debug|x64.ActiveCfg = Debug|x64
+		{FEE35B19-B0DF-4DAA-8514-A6AB3AFA8EE4}.Debug|x64.Build.0 = Debug|x64
+		{FEE35B19-B0DF-4DAA-8514-A6AB3AFA8EE4}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEE35B19-B0DF-4DAA-8514-A6AB3AFA8EE4}.Debug|x86.Build.0 = Debug|Win32
+		{FEE35B19-B0DF-4DAA-8514-A6AB3AFA8EE4}.Release|x64.ActiveCfg = Release|x64
+		{FEE35B19-B0DF-4DAA-8514-A6AB3AFA8EE4}.Release|x64.Build.0 = Release|x64
+		{FEE35B19-B0DF-4DAA-8514-A6AB3AFA8EE4}.Release|x86.ActiveCfg = Release|Win32
+		{FEE35B19-B0DF-4DAA-8514-A6AB3AFA8EE4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECE761B2-BBC1-495D-8119-A3AD83E70886}
+	EndGlobalSection
+EndGlobal
