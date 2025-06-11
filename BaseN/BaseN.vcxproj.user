@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>\
+<!--MSBUILD root tag ."current" means uses updated new version of MSBUILD tools-->
+<!--XMLNS links with the MSBUILD xml schema-->
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<PropertyGroup />
+</Project>
+<!--file name can be .users, .targets, .props-->
