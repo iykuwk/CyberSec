@@ -1,0 +1,22 @@
+﻿  main.c
+D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(14,1): warning C4010: single-line comment contains line-continuation character
+D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(44,34): warning C4047: '=': 'ULONG_PTR' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(136,45): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(105,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(106,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(164,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(222,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+      D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(222,9):
+      consider using '%lld' in the format string
+      D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(222,9):
+      consider using '%Id' in the format string
+      D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(222,9):
+      consider using '%I64d' in the format string
+  
+D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(206,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\BaseN\main.c(217,10): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BaseNEncoder.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\BaseNEncoder\x64\Release\BaseNEncoder.exe
