@@ -48,27 +48,27 @@ int main()
     
     string ciphertext = xorED(plaintext, key);
     
-    cout << "\nOriginal plaintext: " << plaintext << endl;
-    cout << "Plaintext in hex: ";
+    cout<<"\nOriginal plaintext: "<<plaintext<<endl;
+    cout<<"Plaintext in hex: ";
     displayHex(plaintext);
     
-    cout << "\nCiphertext: " << ciphertext << " (non-printable characters may not display)" << endl;
-    cout << "Ciphertext in hex: ";
+    cout<<"\nCiphertext: "<<ciphertext<<" (non-printable characters may not display)"<<endl;
+    cout<<"Ciphertext in hex: ";
     displayHex(ciphertext);
 
     string decrypted = xorED(ciphertext, key);
     
-    cout << "\nDecrypted text: " << decrypted << endl;
-    cout << "Decrypted in hex: ";
+    cout<<"\nDecrypted text: "<<decrypted<<endl;
+    cout<<"Decrypted in hex: ";
     displayHex(decrypted);
     
     if (plaintext == decrypted) 
     {
-        cout << "\nSuccess! Plaintext and decrypted text match." << endl;
+        cout<<"\nSuccess! Plaintext and decrypted text match. <<endl;
     } 
     else 
     {
-        cout << "\nError! Plaintext and decrypted text don't match." << endl;
+        cout <<"\nError! Plaintext and decrypted text don't match."<<endl;
     }
     return 0;
 }

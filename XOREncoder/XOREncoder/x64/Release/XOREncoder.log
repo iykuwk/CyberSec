@@ -1,0 +1,6 @@
+﻿  XOR.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  XOREncoder.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\XOREncoder\x64\Release\XOREncoder.exe

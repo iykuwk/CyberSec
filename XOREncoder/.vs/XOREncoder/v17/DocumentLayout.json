@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cybersecurity\\codefromstart\\CyberSec\\XOREncoder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{977B8C28-862F-4CEE-99D6-ECA9C9ECC3E3}|XOREncoder.vcxproj|C:\\Users\\YASHODHAN\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\17-Xor\\Xor\\Xor\\XOR.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XOR.c",
+              "DocumentMoniker": "C:\\Users\\YASHODHAN\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\17-Xor\\Xor\\Xor\\XOR.c",
+              "ToolTip": "C:\\Users\\YASHODHAN\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\17-Xor\\Xor\\Xor\\XOR.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-24T17:37:04.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
