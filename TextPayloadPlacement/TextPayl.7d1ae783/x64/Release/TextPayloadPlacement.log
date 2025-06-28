@@ -1,0 +1,6 @@
+﻿  text.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TextPayloadPlacement.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\TextPayloadPlacement\x64\Release\TextPayloadPlacement.exe

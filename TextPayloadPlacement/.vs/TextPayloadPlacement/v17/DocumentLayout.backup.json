@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cybersecurity\\codefromstart\\CyberSec\\TextPayloadPlacement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1AE783-9E22-48EE-9F1F-9EB51461E000}|TextPayloadPlacement.vcxproj|C:\\Users\\YASHODHAN\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\14-TextPayloadPlacement\\Text\\Text\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "C:\\Users\\YASHODHAN\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\14-TextPayloadPlacement\\Text\\Text\\text.c",
+              "ToolTip": "C:\\Users\\YASHODHAN\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\14-TextPayloadPlacement\\Text\\Text\\text.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-28T10:09:47.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
