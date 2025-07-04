@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cybersecurity\\codefromstart\\CyberSec\\RC4(ED)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{515B7E65-1E16-4B2F-A253-2572CFEF25F4}|RC4(ED).vcxproj|C:\\Users\\YASHODHAN\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\18-Rc4\\Rc4\\Rc4\\RC4(1).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RC4(1).c",
+              "DocumentMoniker": "C:\\Users\\YASHODHAN\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\18-Rc4\\Rc4\\Rc4\\RC4(1).c",
+              "ToolTip": "C:\\Users\\YASHODHAN\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\18-Rc4\\Rc4\\Rc4\\RC4(1).c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-04T19:07:34.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
