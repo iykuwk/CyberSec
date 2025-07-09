@@ -1,0 +1,9 @@
+﻿  RC4(2).c
+C:\Users\YASHODHAN\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\18-Rc4\Rc4\Rc4(2)\RC4(2).c(38,34): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+C:\Users\YASHODHAN\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\18-Rc4\Rc4\Rc4(2)\RC4(2).c(38,41): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+C:\Users\YASHODHAN\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\18-Rc4\Rc4\Rc4(2)\RC4(2).c(24,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RC4.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\RC4\x64\Release\RC4.exe
