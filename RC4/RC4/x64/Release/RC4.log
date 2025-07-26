@@ -1,9 +1,12 @@
 ﻿  RC4(2).c
+  RC4EncShellcode.c
 C:\Users\YASHODHAN\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\18-Rc4\Rc4\Rc4(2)\RC4(2).c(38,34): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
 C:\Users\YASHODHAN\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\18-Rc4\Rc4\Rc4(2)\RC4(2).c(38,41): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
 C:\Users\YASHODHAN\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\18-Rc4\Rc4\Rc4(2)\RC4(2).c(24,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  RC4.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\RC4\x64\Release\RC4.exe
+D:\Cybersecurity\codefromstart\CyberSec\RC4\RC4EncShellcode.c(38,34): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+D:\Cybersecurity\codefromstart\CyberSec\RC4\RC4EncShellcode.c(38,40): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+D:\Cybersecurity\codefromstart\CyberSec\RC4\RC4EncShellcode.c(25,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+RC4EncShellcode.obj : error LNK2005: key already defined in RC4(2).obj
+RC4EncShellcode.obj : error LNK2005: main already defined in RC4(2).obj
+RC4EncShellcode.obj : error LNK2005: Rc4EncryptionViSystemFunc032 already defined in RC4(2).obj
+D:\Cybersecurity\codefromstart\CyberSec\RC4\x64\Release\RC4.exe : fatal error LNK1169: one or more multiply defined symbols found

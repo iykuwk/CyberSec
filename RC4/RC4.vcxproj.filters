@@ -18,5 +18,8 @@
     <ClCompile Include="C:\Users\YASHODHAN\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\18-Rc4\Rc4\Rc4(2)\RC4(2).c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RC4EncShellcode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
