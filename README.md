@@ -37,5 +37,5 @@ specifically focusing on:
 - Optional: Virtual Machine with snapshots (e.g., VirtualBox, VMware)
 
 
-I am still a beginner in this field so any misleading information if detected, please do report it to me or just drop a message to me on
+I am still a beginner in this field so any misleading information if detected, please do report it to me or just drop a message  on
 +91 8149414692.
