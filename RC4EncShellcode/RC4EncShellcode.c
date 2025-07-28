@@ -46,6 +46,7 @@ BOOL Rc4EncryptionViSystemFunc032(IN PBYTE pRc4Key, IN PBYTE pPayloadData, IN DW
 }
 
 // Print the input buffer as a hex char array
+// LPCSTR: Long Pointer to Constant ANSI STRing.
 VOID PrintHexData(LPCSTR Name, PBYTE Data, SIZE_T Size) {
 
 	printf("unsigned char %s[] = {", Name);//starts array declaration without signing
