@@ -3,30 +3,30 @@
 
 // https://learn.microsoft.com/en-us/windows/win32/api/ip2string/nf-ip2string-rtlipv4stringtoaddressa
 // RtlIpv4StringToAddressA: converts the IPv4 string to 4 byte binary representation
-typedef NTSTATUS(NTAPI* fnRtlIpv4StringToAddressA)(
+typedef NTSTATUS (NTAPI* fnRtlIpv4StringToAddressA)(
 	PCSTR		S, //pointer to string
 	BOOLEAN		Strict,
-	PCSTR* Terminator, // Pointer to PCSTR, used for output string parameteres handling
-	PVOID		Addr //Pointer to void, holds any memory address dynamically
-	);
+	PCSTR*		Terminator, // Pointer to PCSTR, used for output string parameteres handling
+    PVOID		Addr //Pointer to void, holds any memory address dynamically
+);
 
 // Function that will IPv4 deobfuscate the payload
 // pDSize: Size of the buffer in bytes
 // ppDAddress: Pointer to final buffer holding decoded bytes
 BOOL Ipv4Deobfuscation(IN CHAR* Ipv4Array[], IN SIZE_T NmbrOfElements, OUT PBYTE* ppDAddress, OUT SIZE_T* pDSize) {
 
-	PBYTE		pBuffer = NULL, // pBuffer: pointer to Buffer
-		TmpBuffer = NULL; // TmpBuffer: TeMPorary Buffer 
+	PBYTE		pBuffer			= NULL, // pBuffer: pointer to Buffer
+			TmpBuffer		= NULL; // TmpBuffer: TeMPorary Buffer 
 
-	SIZE_T		sBuffSize = NULL;
+	SIZE_T		sBuffSize		= NULL;
 
-	PCSTR		Terminator = NULL;
+	PCSTR		Terminator		= NULL;
 
-	NTSTATUS	STATUS = NULL;
+	NTSTATUS	STATUS			= NULL;
 
 	// Getting RtlIpv4StringToAddressA address from ntdll.dll (basically loads and dynamically locates undocumented functions to be ensured that they run.)
 	fnRtlIpv4StringToAddressA pRtlIpv4StringToAddressA = (fnRtlIpv4StringToAddressA)GetProcAddress(GetModuleHandle(TEXT("NTDLL")), "RtlIpv4StringToAddressA");
-	if (pRtlIpv4StringToAddressA == NULL) {
+	if (pRtlIpv4StringToAddressA == NULL){
 		printf("[!] GetProcAddress Failed With Error : %d \n", GetLastError());
 		return FALSE;
 	}
@@ -36,11 +36,11 @@ BOOL Ipv4Deobfuscation(IN CHAR* Ipv4Array[], IN SIZE_T NmbrOfElements, OUT PBYTE
 
 	// Allocating memory which will hold the deobfuscated shellcode
 	pBuffer = (PBYTE)HeapAlloc(GetProcessHeap(), 0, sBuffSize);
-	if (pBuffer == NULL) {
+	if (pBuffer == NULL){
 		printf("[!] HeapAlloc Failed With Error : %d \n", GetLastError());
 		return FALSE;
 	}
-
+	
 	// Setting TmpBuffer to be equal to pBuffer
 	TmpBuffer = pBuffer;
 
@@ -62,8 +62,8 @@ BOOL Ipv4Deobfuscation(IN CHAR* Ipv4Array[], IN SIZE_T NmbrOfElements, OUT PBYTE
 	}
 
 	// Save the base address & size of the deobfuscated payload
-	*ppDAddress = pBuffer;
-	*pDSize = sBuffSize;
+	*ppDAddress		= pBuffer;
+	*pDSize			= sBuffSize;
 
 	return TRUE;
 }
@@ -84,14 +84,14 @@ char* Ipv4Array[] = {
 
 int main() {
 
-	PBYTE	pDAddress = NULL;
-	SIZE_T	sDSize = NULL;
+	PBYTE	pDAddress	= NULL;
+	SIZE_T	sDSize		= NULL;
 
 	if (!Ipv4Deobfuscation(Ipv4Array, NumberOfElements, &pDAddress, &sDSize)) //&pDAdress: passes the address of pDAdress 
 		return -1; // means return the data, stop the program and signal an error
 
 	printf("[+] Deobfuscated Bytes at 0x%p of Size %ld ::: \n", pDAddress, sDSize);
-	for (size_t i = 0; i < sDSize; i++) {
+	for (size_t i = 0; i < sDSize; i++){
 		if (i % 16 == 0) // to ensure that the data is hexadecimal and all.
 			printf("\n\t");
 
