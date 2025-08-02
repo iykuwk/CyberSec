@@ -3,7 +3,7 @@ This is my beginning in the CyberSecurity Journey where I will deal with some ma
 
 # 🔐 Windows Malware Development & Entropy Evasion Research
 
-## 📌 Overview
+## Overview
 
 This repository is dedicated to the **research and development of Windows-based malware techniques**, 
 specifically focusing on:
@@ -15,12 +15,12 @@ specifically focusing on:
 - Understanding behavioral detection evasion
 - Implementing base encoding, packing, and subtle sandbox evasion
 
-> ⚠️ **This repository is for educational and research purposes only.** All code and content provided are strictly for learning 
+> **This repository is for educational and research purposes only.** All code and content provided are strictly for learning 
   and analysis in a controlled environment.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - 🧠 **Understanding Windows internals** and API behaviors critical to malware execution.
 - 🔍 **Investigating entropy manipulation** techniques to reduce binary detectability.
@@ -35,7 +35,3 @@ specifically focusing on:
 - Libraries: Custom encoding/decoding, PE header manipulation
 - Research Tools: PE-bear, Detect-It-Easy, Procmon, API Monitor
 - Optional: Virtual Machine with snapshots (e.g., VirtualBox, VMware)
-
-
-I am still a beginner in this field so any misleading information if detected, please do report it to me or just drop a message  on
-+91 8149414692.
