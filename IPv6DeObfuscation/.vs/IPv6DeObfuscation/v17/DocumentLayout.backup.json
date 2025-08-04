@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cybersecurity\\codefromstart\\CyberSec\\IPv6DeObfuscation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C360B19D-ACD0-4647-9938-7B4F386FDDFB}|IPv6DeObfuscation.vcxproj|C:\\Users\\YASHODHAN\\OneDrive\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\21-IpFuscation\\IpFuscation\\IPV6Deobfuscation\\Ipv6Deobfuscation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ipv6Deobfuscation.c",
+              "DocumentMoniker": "C:\\Users\\YASHODHAN\\OneDrive\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\21-IpFuscation\\IpFuscation\\IPV6Deobfuscation\\Ipv6Deobfuscation.c",
+              "ToolTip": "C:\\Users\\YASHODHAN\\OneDrive\\Desktop\\Maldev Extracted\\Maldev-Academy-20250307T075841Z-001\\Maldev-Academy\\Maldev-Academy-Malware-Development\\MalDev\\21-IpFuscation\\IpFuscation\\IPV6Deobfuscation\\Ipv6Deobfuscation.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-04T07:56:02.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
