@@ -1,0 +1,8 @@
+﻿  Ipv6Fuscation.c
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\21-IpFuscation\IpFuscation\IPv6Fuscation\Ipv6Fuscation.c(42,42): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\21-IpFuscation\IpFuscation\IPv6Fuscation\Ipv6Fuscation.c(35): warning C4172: returning address of local variable or temporary : result
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  IPv6Obfuscation.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\IPv6Obfuscation\x64\Release\IPv6Obfuscation.exe
