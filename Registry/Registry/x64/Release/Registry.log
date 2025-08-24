@@ -1,0 +1,27 @@
+﻿  Registry.c
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(42,37): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(42,43): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(33,21): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(56,17): warning C4047: 'initializing': 'LSTATUS' differs in levels of indirection from 'void *'
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(57,12): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(113,28): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(113,28): warning C4024: 'CreateThread': different types for formal and actual parameter 2
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(113,59): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(113,59): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(92,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(206,36): warning C4133: 'function': incompatible types - from 'PVOID *' to 'PBYTE *'
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(210,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+      C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(210,12):
+      consider using '%lld' in the format string
+      C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(210,12):
+      consider using '%Id' in the format string
+      C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(210,12):
+      consider using '%I64d' in the format string
+  
+C:\Users\YASHODHAN\OneDrive\Desktop\Maldev Extracted\Maldev-Academy-20250307T075841Z-001\Maldev-Academy\Maldev-Academy-Malware-Development\MalDev\Registry\Registry\Registry.c(199,17): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Generating code
+  4 of 7 functions (57.1%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Registry.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\Registry\x64\Release\Registry.exe
