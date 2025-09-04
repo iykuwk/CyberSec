@@ -1,0 +1,21 @@
+﻿  main.c
+D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\main.c(65,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+      D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\main.c(65,9):
+      consider using '%lld' in the format string
+      D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\main.c(65,9):
+      consider using '%Id' in the format string
+      D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\main.c(65,9):
+      consider using '%I64d' in the format string
+  
+D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\main.c(44,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\main.c(47,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\main.c(145,19): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\main.c(181,38): warning C4113: 'PTHREAD_START_ROUTINE' differs in parameter lists from 'PAPCFUNC'
+D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\main.c(181,57): warning C4047: 'function': 'ULONG_PTR' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\main.c(181,57): warning C4024: 'QueueUserAPC': different types for formal and actual parameter 3
+D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\main.c(158,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EarlyBirdInjection.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\EarlyBirdInjection\x64\Release\EarlyBirdInjection.exe
