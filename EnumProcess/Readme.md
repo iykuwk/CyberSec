@@ -1,0 +1,4 @@
+<pre>
+The 
+
+Code’s overall flow is like a security guard checking who is in each office: it lists all office numbers (EnumProcesses), then for each office it “opens” the door (OpenProcess), checks the person’s name badge (GetModuleBaseName), and compares it to the target name (e.g. "svchost.exe"). If it finds a match, it reports the office number (PID) and stops. This is useful in a defensive context to understand how malware might perform reconnaissance – by enumerating processes to find a specific service or application – and to ensure we know how to monitor such behavior. (In fact, attackers often use EnumProcesses to scan a system as a first step)<pre>
