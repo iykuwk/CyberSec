@@ -59,7 +59,9 @@ This repeats until the target process is found.
    - If not, close handle and continue.  
 
 7. **CloseHandle**  
-   - Always close after checking.  
+   - Always close after checking.
+
+## NOTE: Run the compiler as administrator to get expected & matching results
 
 ## Algorithm Flowchart
 ```mermaid
@@ -81,4 +83,3 @@ flowchart TD
     K --> L[End]
 
 
-## NOTE: Run the compiler as administrator to get expected & matching results
