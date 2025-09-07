@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Cybersecurity\\codefromstart\\CyberSec\\EnumProcess\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6693A-844C-44F1-8332-80E25D6DE566}|EnumProcess.vcxproj|D:\\Cybersecurity\\codefromstart\\CyberSec\\EnumProcess\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7A6693A-844C-44F1-8332-80E25D6DE566}|EnumProcess.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Cybersecurity\\codefromstart\\CyberSec\\EnumProcess\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\Cybersecurity\\codefromstart\\CyberSec\\EnumProcess\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-07T10:42:31.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

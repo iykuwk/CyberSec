@@ -1,0 +1,18 @@
+﻿  main.c
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(33,23): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(47,48): warning C4133: 'function': incompatible types - from 'WCHAR [260]' to 'LPSTR'
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(68,14): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(10,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(11,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(12,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(100,23): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(114,48): warning C4133: 'function': incompatible types - from 'WCHAR [260]' to 'LPSTR'
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(77,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(78,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(79,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\main.c(134,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EnumProcess.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\EnumProcess\x64\Release\EnumProcess.exe
