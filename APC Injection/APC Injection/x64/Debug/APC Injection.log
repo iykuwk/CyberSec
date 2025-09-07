@@ -1,0 +1,32 @@
+﻿  main.c
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(60,36): warning C4047: 'function': 'BOOL' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(60,36): warning C4024: 'CreateEventA': different types for formal and actual parameter 2
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(60,42): warning C4047: 'function': 'BOOL' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(60,42): warning C4024: 'CreateEventA': different types for formal and actual parameter 3
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(69,36): warning C4047: 'function': 'BOOL' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(69,36): warning C4024: 'CreateEventA': different types for formal and actual parameter 2
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(69,42): warning C4047: 'function': 'BOOL' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(69,42): warning C4024: 'CreateEventA': different types for formal and actual parameter 3
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(78,36): warning C4047: 'function': 'BOOL' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(78,36): warning C4024: 'CreateEventA': different types for formal and actual parameter 2
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(78,42): warning C4047: 'function': 'BOOL' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(78,42): warning C4024: 'CreateEventA': different types for formal and actual parameter 3
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(87,37): warning C4047: 'function': 'BOOL' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(87,37): warning C4024: 'CreateEventA': different types for formal and actual parameter 2
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(87,43): warning C4047: 'function': 'BOOL' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(87,43): warning C4024: 'CreateEventA': different types for formal and actual parameter 3
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(88,37): warning C4047: 'function': 'BOOL' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(88,37): warning C4024: 'CreateEventA': different types for formal and actual parameter 2
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(88,43): warning C4047: 'function': 'BOOL' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(88,43): warning C4024: 'CreateEventA': different types for formal and actual parameter 3
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(133,49): warning C4047: 'function': 'ULONG_PTR' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(133,49): warning C4024: 'QueueUserAPC': different types for formal and actual parameter 3
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(109,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(157,31): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(157,31): warning C4024: 'CreateThread': different types for formal and actual parameter 2
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(157,37): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(157,37): warning C4133: 'function': incompatible types - from 'void (__cdecl *)()' to 'LPTHREAD_START_ROUTINE'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(157,64): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(157,64): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+D:\Cybersecurity\codefromstart\CyberSec\APC Injection\main.c(143,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  APC Injection.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\APC Injection\x64\Debug\APC Injection.exe

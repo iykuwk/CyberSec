@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cybersecurity\\codefromstart\\CyberSec\\APC Injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA21261E-5B59-4E59-8005-24A8FEB8CE98}|APC Injection.vcxproj|D:\\Cybersecurity\\codefromstart\\CyberSec\\APC Injection\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA21261E-5B59-4E59-8005-24A8FEB8CE98}|APC Injection.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Cybersecurity\\codefromstart\\CyberSec\\APC Injection\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\Cybersecurity\\codefromstart\\CyberSec\\APC Injection\\main.c*",
+              "RelativeToolTip": "main.c*",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-06T19:44:57.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
