@@ -1,0 +1,25 @@
+﻿  main.c
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(29,46): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(29,46): warning C4024: 'InternetOpenW': different types for formal and actual parameter 2
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(29,64): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(29,64): warning C4024: 'InternetOpenW': different types for formal and actual parameter 5
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(36,59): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(36,59): warning C4024: 'InternetOpenUrlW': different types for formal and actual parameter 4
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(36,131): warning C4047: 'function': 'DWORD_PTR' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(36,131): warning C4024: 'InternetOpenUrlW': different types for formal and actual parameter 6
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(21,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(23,10): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(115,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'SIZE_T'
+      D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(115,9):
+      consider using '%lld' in the format string
+      D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(115,9):
+      consider using '%Id' in the format string
+      D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(115,9):
+      consider using '%I64d' in the format string
+  
+D:\Cybersecurity\codefromstart\CyberSec\WebStaging\main.c(104,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WebStaging.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\WebStaging\x64\Release\WebStaging.exe
