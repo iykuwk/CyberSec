@@ -1,0 +1,16 @@
+﻿  main.c
+D:\Cybersecurity\codefromstart\CyberSec\LocalMappingInjection\main.c(42,81): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\LocalMappingInjection\main.c(42,81): warning C4024: 'CreateFileMappingW': different types for formal and actual parameter 4
+D:\Cybersecurity\codefromstart\CyberSec\LocalMappingInjection\main.c(50,72): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\LocalMappingInjection\main.c(50,72): warning C4024: 'MapViewOfFile': different types for formal and actual parameter 3
+D:\Cybersecurity\codefromstart\CyberSec\LocalMappingInjection\main.c(50,78): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\LocalMappingInjection\main.c(50,78): warning C4024: 'MapViewOfFile': different types for formal and actual parameter 4
+D:\Cybersecurity\codefromstart\CyberSec\LocalMappingInjection\main.c(85,31): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\LocalMappingInjection\main.c(85,31): warning C4024: 'CreateThread': different types for formal and actual parameter 2
+D:\Cybersecurity\codefromstart\CyberSec\LocalMappingInjection\main.c(85,53): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+D:\Cybersecurity\codefromstart\CyberSec\LocalMappingInjection\main.c(85,53): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LocalMappingInjection.vcxproj -> D:\Cybersecurity\codefromstart\CyberSec\LocalMappingInjection\x64\Release\LocalMappingInjection.exe
