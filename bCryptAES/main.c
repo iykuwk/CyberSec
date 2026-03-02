@@ -1,5 +1,3 @@
-// @NUL0x4C | @mrd0x : MalDevAcademy
-
 #include <Windows.h>
 #include <stdio.h>
 #include <bcrypt.h>
@@ -250,7 +248,6 @@ _EndOfFunc:
 		pAes->dwPlainSize = cbPlainText;
 	}
 	return bSTATE;
-
 }
 
 // Wrapper function for InstallAesEncryption that makes things easier
